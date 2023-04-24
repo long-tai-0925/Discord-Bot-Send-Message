@@ -43,4 +43,4 @@ async def on_ready():
         await channel.send(input("---------------------------------------------------\nEnter a message to send：\n"))
 
 # Replace "Your_Token" with your Token
-client.run("UE_TOKEN")
+client.run("UR_TOKEN")
